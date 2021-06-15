@@ -1,10 +1,12 @@
 ## My projects
 
+* [seas](https://github.com/mwtoews/seas) - R package for seasonal analysis and graphics, especially for climatology
 * [Surface water network](https://github.com/mwtoews/surface-water-network) ([docs](https://mwtoews.github.io/surface-water-network/)) - Python package to build and analyze surface water networks, and adapt them to MODFLOW models
 
 ## Contributions
 
 * [FloPy](https://github.com/modflowpy/flopy) ([docs](https://flopy.readthedocs.io/)) - Python package to create, run, and post-process MODFLOW-based models
+* [PEST++](https://github.com/usgs/pestpp) ([home](https://www.usgs.gov/software/pest-parameter-estimation-code-optimized-large-environmental-models)) - Tools for non-intrusive and scalable parameter estimation and uncertainty quantification
 * [PROJ](https://github.com/OSGeo/PROJ) ([docs](https://proj.org/)) - generic coordinate transformation software
 * [Shapely](https://github.com/Toblerity/Shapely) ([docs](https://shapely.readthedocs.io/en/stable/)) - Python package for manipulation and analysis of geometric objects in the Cartesian plane
 
