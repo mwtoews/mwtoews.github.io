@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## My projects
 
-You can use the [editor on GitHub](https://github.com/mwtoews/mwtoews.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+* [Surface water network](https://github.com/mwtoews/surface-water-network) ([docs](https://mwtoews.github.io/surface-water-network/)) - Python package to build and analyze surface water networks, and adapt them to MODFLOW models
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contributions
 
-### Markdown
+* [FloPy](https://github.com/modflowpy/flopy) ([docs](https://flopy.readthedocs.io/)) - Python package to create, run, and post-process MODFLOW-based models
+* [PROJ](https://github.com/OSGeo/PROJ) ([docs](https://proj.org/)) - generic coordinate transformation software
+* [Shapely](https://github.com/Toblerity/Shapely) ([docs](https://shapely.readthedocs.io/en/stable/)) - Python package for manipulation and analysis of geometric objects in the Cartesian plane
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Other contributions
 
-```markdown
-Syntax highlighted code block
+* [PostGIS](https://git.osgeo.org/gitea/postgis/postgis) ([mirror](https://github.com/postgis/postgis), [home](https://postgis.net/)) - spatial database extender for PostgreSQL
+* [NumPy](https://github.com/numpy/numpy) ([home](https://numpy.org/)) - fundamental package for scientific computing with Python
+* [More](https://github.com/mwtoews)
 
-# Header 1
-## Header 2
-### Header 3
+## See also
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mwtoews/mwtoews.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [PublicDomainRelease](https://github.com/PublicDomainRelease) - This group of repositoris contains mostly public domain releases of scientific software
